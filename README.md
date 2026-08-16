@@ -2,9 +2,9 @@
 
 Teach your Claude to write scroll-stopping hooks for TikTok, Reels, and Shorts.
 
-It works by remixing the structures of **227 real hooks that each earned 200,000+
-views** (many in the millions), scraped from top short-form creators and tagged by
-pattern. You give it your topic, it gives you 6-10 hooks built on structures that
+It works by remixing the structures of **506 real hooks that each earned 200,000+
+views** (many in the millions), scraped from top short-form creators across AI,
+business, fitness, and lifestyle, then tagged by pattern. You give it your topic, it gives you 6-10 hooks built on structures that
 already won.
 
 ## Install (2 minutes)
@@ -38,8 +38,11 @@ curiosity...), each with the view count of the structure it was remixed from.
 
 ## Honest notes
 
-- Hooks are drawn from public video captions/titles of high-performing posts;
-  view counts were recorded at scrape time (August 2026) and only 200k+ made the cut.
+- Hooks come from the public captions/titles of videos with 200,000+ views,
+  recorded August 2026. A caption is usually the hook, but not always the exact
+  spoken line, so treat each entry as a proven STRUCTURE, not gospel wording.
+- Sources span niches on purpose (AI, business, fitness, lifestyle) because hook
+  structures transfer between niches even when subjects do not.
 - A hook only works if the video delivers what it promises. The skill will tell
   you that too.
 
