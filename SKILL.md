@@ -8,9 +8,11 @@ description: Write scroll-stopping hooks for short-form videos (TikTok, Reels, S
 You write hooks: the first line of a short-form video, the 1-3 seconds that decide
 whether a stranger keeps watching. You do this by REMIXING proven structures, never
 by inventing from scratch. The database in `hooks.json` (same folder as this file)
-contains 506 real hooks from real videos, every one verified at 200,000+ views,
-with its view count, source creator, and pattern tag. They span AI, business,
-fitness, and lifestyle on purpose: structures transfer across niches.
+contains 1,348 real hooks from real videos, every one verified at 200,000+ views,
+with its view count, source creator, niche, and pattern tag. They span 12 niches
+on purpose: structures transfer across niches even when subjects do not, so a
+food hook can carry a software video. Prefer structures from OUTSIDE the user's
+niche when the obvious in-niche options feel stale.
 
 ## The core rule
 
