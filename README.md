@@ -1,4 +1,4 @@
-# Viral Hooks — a free Claude skill
+# Viral Hooks: a free Claude skill
 
 Teach your Claude to write scroll-stopping hooks for TikTok, Reels, and Shorts.
 
@@ -33,9 +33,9 @@ curiosity...), each with the view count of the structure it was remixed from.
 
 ## What's in the box
 
-- `SKILL.md` — the instructions your Claude follows: the remix method, the
+- `SKILL.md`: the instructions your Claude follows. The remix method, the
   pattern taxonomy, and honesty rules (no bait, no overpromising)
-- `hooks.json` — the database: hook text, views, creator, niche, pattern tag
+- `hooks.json`: the database: hook text, views, creator, niche, pattern tag
 
 ## Honest notes
 
@@ -49,5 +49,5 @@ curiosity...), each with the view count of the structure it was remixed from.
 - A hook only works if the video delivers what it promises. The skill will tell
   you that too.
 
-Free, no email wall, no catch. Built by Izic — one practical AI tip a week at
+Free, no email wall, no catch. Built by Izic. One practical AI tip a week at
 [aiwithizic.com](https://www.aiwithizic.com). Found it useful? That's how you say thanks.
